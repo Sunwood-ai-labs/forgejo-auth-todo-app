@@ -1,4 +1,17 @@
-# 🔐 Forgejo認証TODOアプリ
+<h1 align="center">🔐 Forgejo認証TODOアプリ</h1>
+
+<div align="center">
+<img src="header.png" alt="Forgejo認証TODOアプリ" />
+</div>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Forgejo](https://img.shields.io/badge/Forgejo-FB7A28?style=for-the-badge&logo=forgejo&logoColor=white)
+
+</div>
 
 Forgejo APIを使用した認証機能付きTODOアプリケーションです。Forgejoのユーザー名・パスワード、またはAPIトークンを使用してログインし、個人のTODOを管理できます。
 
