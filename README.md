@@ -88,7 +88,7 @@ forgejo-auth-todo-app/
 
 ```bash
 # プロジェクトをクローン
-git clone <repository-url>
+git clone https://github.com/Sunwood-ai-labs/forgejo-auth-todo-app.git
 cd forgejo-auth-todo-app
 
 # ローカルサーバーを起動
